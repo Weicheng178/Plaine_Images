@@ -6,7 +6,7 @@
 
 Design mode: singleton mode, each client will only be assigned one server or client, there can only be one server and multiple clients
 
-MVC: I used the mvc architecture, but if I have to say it, M is the data of the application layer, v is the xaml design file, and c is the delegate of the application layer
+MVC: I used the mvc architecture, but if I have to say it, M is the data of the application layer, V is the xaml design file, and C is the delegate of the application layer
 
 Synchronous mechanism: using asynchronous socket to accept data, and delegate to update UI
 
